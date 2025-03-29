@@ -1,7 +1,7 @@
 # 👋 Hi, I'm  Maher Nabil 
 
 💻 **Software Engineer | Backend & Frontend Developer**  
-🎓 **Computer Science Graduate - Menoufia University**  
+🎓 **Computer Science - Menoufia University**  
 🚀 **Building Scalable Web Apps with Java Spring & Angular**  
 
 ---
