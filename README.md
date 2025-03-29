@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm  Maher Nabil 
 
 💻 **Software Engineer | Backend & Frontend Developer**  
 🎓 **Computer Science Graduate - Menoufia University**  
@@ -16,16 +16,10 @@
 
 ## 💼 Tech Stack  
 🔹 **Backend:** Java, Spring Boot, Spring Security, REST APIs  
-🔹 **Frontend:** Angular, TypeScript, React  
+🔹 **Frontend:** Angular, TypeScript,  
 🔹 **Databases:** MySQL, PostgreSQL, MongoDB  
 🔹 **DevOps:** Docker, GitHub Actions, CI/CD  
 🔹 **Tools & Platforms:** Git, Linux, Postman, VS Code  
-
----
-
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)  
 
 ---
 
